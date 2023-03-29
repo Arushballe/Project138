@@ -1,0 +1,19 @@
+.header
+{
+    background: #b1f0e3;
+    width: 100%;
+    text-align: left;
+    height: fit-content;
+}
+
+.header h3
+{
+    display: inline;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+#instruction
+{
+    float: right;
+}
